@@ -1,7 +1,7 @@
 # Project exclude paths
 /target/
 # User-specific stuff
-.idea/
+./idea/
 
 *.iml
 *.ipr

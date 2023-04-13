@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "tag": "coals"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:fire_charge"
+  },
+  "__comment": "oh yes i modified this file, from an array of items coal and charcoal to an obj with tag: coals"
+}
